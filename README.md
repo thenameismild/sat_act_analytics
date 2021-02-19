@@ -35,6 +35,13 @@ Standardized tests have long been a controversial topic for students, administra
 |sat_total_2019|int|sat2019|Total SAT score in 2019|
 |act_participation_2019|float|act2019|ACT Participation rate in 2019|
 |act_total_2019|float|act2019|Total ACT score in 2019|
+|sat_parti_change_18(%)|float|allscore|The change in SAT participation rate from 2017 - 2018|
+|sat_parti_change_19(%)|float|allscore|The change in SAT participation rate from 2018 - 2019|
+|act_parti_change_18(%)|float|allscore|The change in ACT participation rate from 2017 - 2018|
+|act_parti_change_19(%)|float|allscore|The change in ACT participation rate from 2018 - 2019|
+|sat_parti_change_all(%)|float|allscore|The change in SAT participation rate from 2017 - 2019|
+|act_parti_change_all(%)|float|allscore|The change in ACT participation rate from 2017 - 2019|
+|region|object|allscore|Identify which region the states are in (Northeast, Midwest, South, West)|
 
 ---
 
