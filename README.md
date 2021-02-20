@@ -55,3 +55,44 @@ I have picked these 6 data sets to explore
 * [`sat_2017.csv`](./data/sat_2017.csv): 2017 SAT Scores by State ([source](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/))
 * [`sat_2018.csv`](./data/sat_2018.csv): 2018 SAT Scores by State ([source](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/))
 * [`sat_2019.csv`](./data/sat_2019.csv): 2019 SAT Scores by State ([source](https://blog.prepscholar.com/average-sat-scores-by-state-most-recent))
+
+---
+
+### The Analysis
+
+From the selected datasets I will be exploring the trends in SAT and ACT participation rates and their respective total score from 2017, 2018 and 2019.
+
+The total score and the participation rates of each test vary largely from state to state. My goal is to uncover the underlying patterns, to be able to suggest appropriate solutions for the different state to be able to improve their score and their respective prefer test participation rates.
+
+#### The Participation Rates Analysis
+
+Through examing the data set I found that out of the 50 states and District of Columbia, the top states with highest SAT participation rate were: Michigan, Connecticut and Delaware always had 100% participation rate. While the top ACT partipating states were: Mississippi, Iowa, Wisconsin, Wyoming, North Dakota and more had 100% participation rate.
+
+On average around 3 states had 100% participation rate for the SAT and around 17 states had 100% participation rates for the ACT. Over the 3 years there are some shift in participation rates where they increase or decrease over the year. 
+
+The most notable changes were when Colorador ACT participation rate dropped by 70% from 2017 to 2019 and Illinois ACT participation rate dropped by 50% from 2017 to 2018. As you can see there is more fluctuation within the ACT participation rate compare to the SAT this could be becuase of the change in education system in different states or government sponsorship for the different tests.
+
+Eventhough there is alot of varying in the participation rates, the states that have 50% or more participation rates in both test stay constant. These states includes: Florida, Hawaii, Georgia, North Carolina and South Carolina. They all have keep their participation rates above 50% in both test and during consecutive years.
+
+#### The Total Score Analysis
+
+The SAT full score is 1600.
+
+In SAT 2017 the top 5 states that scored the highest were Minnesota with an average of 1295 followed by Wisconsin at the average of 1291, then Iowa with the average score of 1275, then Missouri with 1271 score and Kansas at 1260. While the bottom 5 for SAT 2017 were Maine with 1012, Idaho and Michigan at 1005, Delaware at 996 and the lowest was District of Columbia at 950 marks.
+
+In SAT 2018 the top 5 states were Minnesota at 1298, followed by Wisonsin at 1294, then North Dakota at 1283, then Iowa and Kansas at 1265. While the lowest 5 were Hawaii at 1010, Idaho at 1001, then West Virginia at 999, Delaware at 998, and at the bottom like SAT 2017 is DIstrict of Columbia at 977 marks.
+
+In SAT 2019 the top 5 states were once aagain like 2017 and 2018 Minnesota(1284), Wisconsin(1283),South Dakota(1268),Noth Dakota(1263) and a new state Nebraska at 1260 marks. While the lowest 5 were also the same states with Idaho(993), Delaware(985), District of Columbia(975), Oklahoma(963), West Virginia(943).
+
+The ACT full score is 36.
+
+In ACT 2017 the top 5 states were New Hampshire at 25.5, Massachusetts at 25.4, then Connecticut at 25.2, Maine at 24.3 and District of Columbia at 24.2. While the lowest scoring states were North Carolina at 19.1, then Hawaii at 19, Douth Carolina at 18.7, Mississippi at 18.6 and the lowest scorring state was Nevada at 17.8 marks.
+
+In ACT 2018 the highest scoring state was Connecticut at 25.6 marks, followed by Massachusettes at 25.5 then New Hampshire at 25.1, Neew York at 24.5 and Michigan at 24.2. While the lowest scoring states were Alabama at 19.1, then Hawaii at 18.9, Mississippi at 18.6, South Carolina at 18.3 and Nevada at 17.7 marks.
+
+In ACT 2019 the highest scoring states were similar to past year where Massachusetts and COnnecticut were the highest at 25.5, folowed by New Hampshire at 25, then Rhode ISaland at 24.7 and New York at 24.5. While the lowest socring states were also similar with Alabama at 18.9, South Carolina and Louisiana at 18.8 and at the bottom like the last two years were Mississippi at 18.4 and Nevada at 17.9.
+
+---
+
+### The Solution
+
