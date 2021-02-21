@@ -86,7 +86,7 @@ Eventhough there is alot of varying in the participation rates, the states that 
 
 As we explore the toal score, we will be looking at the average score of the SAT and ACT by each state. Looking at the SAT score where its full score is 1600. We see that in 2017 the top 5 states that scored the highest were Minnesota with an average of 1295 followed by Wisconsin at the average of 1291, then Iowa with the average score of 1275, then Missouri with 1271 score and Kansas at 1260. While the bottom 5 for SAT 2017 were Maine with 1012, Idaho and Michigan at 1005, Delaware at 996 and the lowest was District of Columbia at 950 marks.
 
-In SAT 2018 the top 5 states were Minnesota at 1298, followed by Wisonsin at 1294, then North Dakota at 1283, then Iowa and Kansas at 1265. While the lowest 5 were Hawaii at 1010, Idaho at 1001, then West Virginia at 999, Delaware at 998, and at the bottom like SAT 2017 is DIstrict of Columbia at 977 marks.
+In SAT 2018 the top 5 states were Minnesota at 1298, followed by Wisonsin at 1294, then North Dakota at 1283, then Iowa and Kansas at 1265. While the lowest 5 were Hawaii at 1010, Idaho at 1001, then West Virginia at 999, Delaware at 998, and at the bottom like SAT 2017 is District of Columbia at 977 marks.
 
 In SAT 2019 the top 5 states were once aagain like 2017 and 2018 Minnesota(1284), Wisconsin(1283),South Dakota(1268),Noth Dakota(1263) and a new state Nebraska at 1260 marks. While the lowest 5 were also the same states with Idaho(993), Delaware(985), District of Columbia(975), Oklahoma(963), West Virginia(943).
 
@@ -100,3 +100,36 @@ In ACT 2019 the highest scoring states were similar to past year where Massachus
 
 ### The Solution
 
+From the analysis, the key insights are:
+- A high participation in one test normally result in a low participation rate in the other test
+- There is a distinct negative correlation between the total score and participation rate in all the year explored
+- Region Spread
+    - SAT is the most popular in Northeastern states
+    - ACT is the most popular in Midwestern states
+    - Both tests have more than 50% participation rate in the Southern and Western states
+- Over the three years the trand and distribution remain similar for both tests' participation rates, scores, and region spread
+
+From the key insights, there are two type of recommendation we can explore, through individual states or through increasing the overall participation rates.
+
+##### State Specific Recommendation
+1. Mandatory Testing
+
+There are still many states that does not use standardized test like the SATs or the ACTs as their mandatory state test. The testing agency can contact the government officials in these states to promote and lobby for their test to be use as the mandatory testing in that state.
+
+2. State Selection
+
+Contacting the government may not be enough, when appraoching the recommendation the testing agency should also keep in mind about the region they are approaching. If they are the SAT they might have a higher chance of success with northeastern states compare to midwestern. However, states like California or other southern or western states have a 50% participation rates in both test. This means that the testing agency might also see a sucess in implimenting a mandatory testing in those stats as well.
+
+When selecting states the testing agency also should consider the population density and age in the states. This is because with populous states it is easier to see success when trying to increase participation.
+
+##### Overall Participation Rate Recommendation
+1. Competitive Pricing
+
+Currently both test cost about the same, if the testing agency want to differentiate itself they can drasticly decrease their price or provide benefits to taking their test for example:
+- Free score report for college applications
+- Discount for retaking the test
+
+
+2. Readily Available Resources
+
+When students look to pratice for the SATs or ACTs there are not much resrouces available or they are expensive. If the testing provide easily accessble or cheap past paper, practice test or tutoring resources they might see an increase in their participation rate.
